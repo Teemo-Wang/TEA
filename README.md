@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is the TEA / AI Project Team OS development snapshot based on Paperclip. Start with the [TEA document index](doc/team-os/README.md), [current MVP plan](doc/team-os/mvp0-plan-v1.1.md), and [migration guide](doc/team-os/CONTINUING.md). The upstream Paperclip README follows below.
+
 <p align="center">
   <img src="doc/assets/banner.jpg" alt="Paperclip is the app people use to manage AI agents for work." width="720" />
 </p>

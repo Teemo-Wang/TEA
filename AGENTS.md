@@ -7,15 +7,23 @@ Guidance for human and AI contributors working in this repository.
 Paperclip is a control plane for AI-agent companies.
 The current implementation target is V1 and is defined in `doc/SPEC-implementation.md`.
 
+This repository is also the TEA / AI Project Team OS development fork. For TEA work, read
+`doc/team-os/README.md`, `doc/team-os/mvp0-plan-v1.1.md`, and
+`doc/plans/2026-10-15-team-os-reuse-stability.md` before the upstream Paperclip product
+documents. The TEA MVP plan controls the current fork scope while the upstream documents
+remain the contract for reused Paperclip behavior.
+
 ## 2. Read This First
 
 Before making changes, read in this order:
 
-1. `doc/GOAL.md`
-2. `doc/PRODUCT.md`
-3. `doc/SPEC-implementation.md`
-4. `doc/DEVELOPING.md`
-5. `doc/DATABASE.md`
+1. For TEA work: `doc/team-os/README.md`
+2. For TEA work: `doc/team-os/mvp0-plan-v1.1.md`
+3. `doc/GOAL.md`
+4. `doc/PRODUCT.md`
+5. `doc/SPEC-implementation.md`
+6. `doc/DEVELOPING.md`
+7. `doc/DATABASE.md`
 
 `doc/SPEC.md` is long-horizon product context.
 `doc/SPEC-implementation.md` is the concrete V1 build contract.
